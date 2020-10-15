@@ -1,0 +1,10 @@
+{
+    "name": "App Misure Manager",
+    "short_name": "App Misure Manager",
+    "description": "Manager per la AppMisure",
+    "lang": "it-IT",
+    "start_url": "index.html",
+    "background_color": "black",
+    "theme_color": "#F5DEF1",
+    "display": "standalone"
+}
